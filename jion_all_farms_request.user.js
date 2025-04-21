@@ -4,8 +4,8 @@
 // @version      1.3
 // @description  دخول أي مزرعة من أي نوع (فاميلي، هابي، سوبر فارم) باستخدام signed_request
 // @match        *://*.centurygames.com/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/ak2132003/join_farms/raw/refs/heads/main/jion_all_farms_request.user.js
+// @downloadURL  https://github.com/ak2132003/join_farms/raw/refs/heads/main/jion_all_farms_request.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
